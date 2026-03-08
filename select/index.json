@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "TiK ToK",
+  "base_artist": "KESHA",
+  "createdAt": "2026-03-08T03:26:21.700405Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tik Tok (Fred Falke Club Mix)",
+      "artist": "Kesha",
+      "has_synced": false,
+      "path": "select/01_Tik_Tok_(Fred_Falke_Club_Mix)_Kesha.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "TiK ToK - Chuck Buckett's Veruca Salt Remix",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/02_TiK_ToK_-_Chuck_Buckett's_Veruca_Salt_Remix_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "TiK ToK (Chuck Buckett's Veruca Salt Remix)",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/03_TiK_ToK_(Chuck_Buckett's_Veruca_Salt_Remix)_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "TiK ToK (Fred Falke Club Remix)",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/04_TiK_ToK_(Fred_Falke_Club_Remix)_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tik Tok (Tom Neville's Crunk & Med Mix)",
+      "artist": "Kesha",
+      "has_synced": false,
+      "path": "select/05_Tik_Tok_(Tom_Neville's_Crunk_&_Med_Mix)_Kesha.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "TiK ToK (Tom Neville's Crunk & Med Mix)",
+      "artist": "Kesha",
+      "has_synced": false,
+      "path": "select/06_TiK_ToK_(Tom_Neville's_Crunk_&_Med_Mix)_Kesha.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "TiK ToK - Untold Remix",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/07_TiK_ToK_-_Untold_Remix_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "TiK ToK (Untold Remix)",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/08_TiK_ToK_(Untold_Remix)_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "TiK ToK",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/09_TiK_ToK_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "TiK ToK",
+      "artist": "Ke$ha",
+      "has_synced": true,
+      "path": "select/10_TiK_ToK_Ke$ha.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "TiK ToK (Fred Falke Club Remix)",
+      "artist": "Ke$ha",
+      "has_synced": true,
+      "path": "select/11_TiK_ToK_(Fred_Falke_Club_Remix)_Ke$ha.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "TiK ToK",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/12_TiK_ToK_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "TiK ToK",
+      "artist": "Coopex feat. FJØRA",
+      "has_synced": true,
+      "path": "select/13_TiK_ToK_Coopex_feat._FJØRA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "TiK ToK",
+      "artist": "Coopex/FJØRA",
+      "has_synced": true,
+      "path": "select/14_TiK_ToK_Coopex_FJØRA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stayin' Alive VS 50 C Tik Tok - Remix",
+      "artist": "ROSE BEAT",
+      "has_synced": true,
+      "path": "select/15_Stayin'_Alive_VS_50_C_Tik_Tok_-_Remix_ROSE_BEAT.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Stayin' Alive VS 50 C Tik Tok",
+      "artist": "ROSE BEAT",
+      "has_synced": true,
+      "path": "select/16_Stayin'_Alive_VS_50_C_Tik_Tok_ROSE_BEAT.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "TiK ToK",
+      "artist": "Ke$ha",
+      "has_synced": true,
+      "path": "select/17_TiK_ToK_Ke$ha.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Tik Tok",
+      "artist": "Richard Cheese",
+      "has_synced": false,
+      "path": "select/18_Tik_Tok_Richard_Cheese.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TiK ToK",
+      "artist": "Ke$ha",
+      "has_synced": false,
+      "path": "select/pl_01_TiK_ToK_Ke$ha.txt"
+    }
+  ]
+}
